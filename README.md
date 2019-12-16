@@ -8,3 +8,5 @@ And Lastly
 UserName:Admin
 Password:Admin
 Check it out :)
+In Order To Use EXE
+Extract Zip,Go To dist,Main_Menu.exe
